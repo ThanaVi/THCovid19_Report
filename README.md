@@ -1,4 +1,4 @@
-# THCovid19 Report with Google Data Studio
+# Thai Covid19 Cases Report with Google Data Studio
 
 This mini-project used data from https://data.go.th/dataset/covid-19-daily to provide a report that represent a number of Covid19 cases in Thailand with geo map and time series chart in Google Data Studio.
 
