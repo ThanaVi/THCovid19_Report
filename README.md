@@ -25,6 +25,10 @@ Go to: [report](https://datastudio.google.com/reporting/21a59607-9cae-4a3e-8ce6-
  - Result data  
  Go to ETL: [THCovid19_Data](https://colab.research.google.com/drive/145h5YYKzitwuB6uR-LcNFkiIZUGHiK_N?usp=sharing)  
  ![Result](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/edited_covid19.JPG)  
+ Count Covid19 cases each province and join latitude and longtitude  
+ ![](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/join.JPG)   
+ and load to BigQuery   
+ ![](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/load2BQ.JPG)
  
 ### For time series chart,  
  >Total of Covid19 cases in Thailand  
@@ -33,7 +37,9 @@ Go to: [report](https://datastudio.google.com/reporting/21a59607-9cae-4a3e-8ce6-
   ![](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/data2.JPG)  
   - Result data  
   Go to ETL: [THCovid19_Sum](https://colab.research.google.com/drive/1ypdBASkCsHhRr95qLCxP8Y_YdEyG-4JM?usp=sharing)    
-  ![Result](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/covid19_sum.JPG)
+  ![Result](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/covid19_sum.JPG)  
+  Load to BigQuery 
+  ![](https://github.com/ThanaVi/THCovid19_Report/blob/master/images/load2BQ_total.JPG)
 
 
 
